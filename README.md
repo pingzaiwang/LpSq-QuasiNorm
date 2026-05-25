@@ -108,9 +108,11 @@ If you find this code useful, please cite:
 
 ## Acknowledgements
 
-We sincerely thank Dr. Zhifan Li for the exceptionally prompt and
-helpful responses to our questions on the technical details of
-Li et al. (2024), especially for clarifying several proof arguments
-during late-night correspondence.
+We sincerely thank Dr. Zhifan Li, the first author of
+“Estimating Double Sparse Structures over $\ell_u(\ell_q)$-Balls:
+Minimax Rates and Phase Transition,” for his exceptionally prompt and
+helpful responses to our questions on the technical details of that work,
+especially for clarifying several proof arguments during late-night
+correspondence. 👍
 
 
