@@ -95,7 +95,7 @@ experiments.
 If you find this code useful, please cite:
 
 ```bibtex
-@inproceedings{wang2026refining,
+@inproceedings{WangAD2026_ICML_LpSq,
   title     = {Refining Dual Spectral Sparsity in Transformed Tensor Singular Values},
   author    = {Wang, Andong and Qiu, Yuning and Huang, Haonan and Jin, Zhong and Zhou, Guoxu and Zhao, Qibin},
   booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
