@@ -70,7 +70,7 @@ Includes utility routines for:
 
 ## Data
 
-### `SalinasA_corrected_83x86x204.mat`
+#### `SalinasA_corrected_83x86x204.mat`
 
 Preprocessed hyperspectral image tensor with 204 spectral bands,
 commonly used in tensor recovery benchmarks.
